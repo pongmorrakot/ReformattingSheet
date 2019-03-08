@@ -5,6 +5,7 @@
 //new sheet is added to an existing batch if user chose to Add to an existing Batch
 //new Batch spreadsheet is created if user chose to Add to New Batch
 //an entries is added to BatchList containing BatchName, Collection Info, Date created, Date Last edited, and Batch spreadsheet's object ID
+//this script is designed to generate at most one batch each time user submit a form
 //this script could also be implemented to delete uploaded spreadsheet after data is extracted
 
 //Drive API need to be enabled
